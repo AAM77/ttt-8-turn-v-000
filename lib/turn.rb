@@ -55,6 +55,7 @@ def valid_move?(board, index)
 
 end
 
+
 # carries out one turn
 # gets position input from the user
 # checks if the move is valid
